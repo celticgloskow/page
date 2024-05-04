@@ -117,7 +117,8 @@
     left: -153%;
   }
 } .u-section-2 {
-  background-image: none;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('images/Projektbeznazwy7.png');
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -2860,13 +2861,12 @@
 
   .u-section-2 .u-image-1 {
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-2 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -2906,13 +2906,12 @@
 
   .u-section-2 .u-image-5 {
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-6 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -2952,13 +2951,12 @@
 
   .u-section-2 .u-image-9 {
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-10 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -2999,13 +2997,12 @@
   .u-section-2 .u-image-13 {
     object-position: 100% 0%;
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-14 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -3045,13 +3042,12 @@
 
   .u-section-2 .u-image-17 {
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-18 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -3091,13 +3087,12 @@
 
   .u-section-2 .u-image-21 {
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-22 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -3137,13 +3132,12 @@
 
   .u-section-2 .u-image-25 {
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-26 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -3183,13 +3177,12 @@
 
   .u-section-2 .u-image-29 {
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-30 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -3229,13 +3222,12 @@
 
   .u-section-2 .u-image-33 {
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-34 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -3275,13 +3267,12 @@
 
   .u-section-2 .u-image-37 {
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-38 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -3321,13 +3312,12 @@
 
   .u-section-2 .u-image-41 {
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-42 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -3367,13 +3357,12 @@
 
   .u-section-2 .u-image-45 {
     height: 386px;
-    margin-top: 20px;
   }
 
   .u-section-2 .u-image-46 {
     width: 98px;
     height: 98px;
-    margin-top: 11px;
+    margin-top: 31px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -3407,7 +3396,8 @@
     margin-right: auto;
   }
 } .u-section-3 {
-  background-image: none;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('images/why-do-they-sprinkle-football-pitches.jpg');
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -3446,7 +3436,8 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   --radius: 30px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/default-image.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('images/Zrzutekranu2024-05-04110234.png');
+  background-position: 71.67% 50%;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -3491,7 +3482,8 @@
 }
 
 .u-section-3 .u-text-3 {
-  font-style: italic;
+  font-size: 1.125rem;
+  font-style: normal;
   margin: 23px 30px 0;
 }
 
@@ -3548,7 +3540,8 @@
 }
 
 .u-section-3 .u-text-5 {
-  font-style: italic;
+  font-size: 1.125rem;
+  font-style: normal;
   margin: 23px 30px 0;
 }
 
